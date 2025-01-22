@@ -1,0 +1,5 @@
+train: /Users/lucaspadilha/Downloads/IA/dataset/dataset/images/train
+val: /Users/lucaspadilha/Downloads/IA/dataset/dataset/images/val
+
+nc: 2  # Número de classes
+names: ['youtube_ad', 'youtube_skip_button']  # Lista de nomes das classes
